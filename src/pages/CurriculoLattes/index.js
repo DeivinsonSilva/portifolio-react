@@ -7,7 +7,7 @@ import Iframe from 'react-iframe';
 function CurriculoLattes(){
     return(
         <div>
-            <iframe src={cv} />
+            <Iframe src={cv} />
         </div>
     ); 
 };

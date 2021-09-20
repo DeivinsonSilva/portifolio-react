@@ -7,7 +7,7 @@ import Iframe from 'react-iframe';
 function CurriculoVitae(){
     return(
         <div>
-            <iframe src={cv} />
+            <Iframe src={cv} />
         </div>
     ); 
 };
