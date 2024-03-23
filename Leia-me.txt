@@ -18,3 +18,7 @@ Lorem Ipsum
 
 Revisão 01
 	Eviado para branch_win11
+
+
+10ª atualização
+	Eviado para branch_ubu22
